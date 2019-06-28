@@ -1,0 +1,2 @@
+export const GET_PLAYERS = 'GET_PLAYERS';
+export const PLAYERS_RECEIVED = 'PLAYERS_RECEIVED';
